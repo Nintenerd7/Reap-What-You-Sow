@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Game Audio
+  - Enemy
+  - GrimReaper
+  - EnemyCorpse
+  - ReaperScythe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CharacterMovementBoundaries
+  - Bullet
+  - Death
+  - DeathBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1899095211
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2671881727
+    locked: 0
+  - name: Props
+    uniqueID: 1365022175
+    locked: 0
+  - name: Characters
+    uniqueID: 2745301243
+    locked: 0
+  - name: Bullets
+    uniqueID: 1201859927
+    locked: 0
+  - name: Foreground
+    uniqueID: 428906691
+    locked: 0
